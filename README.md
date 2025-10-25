@@ -1,7 +1,12 @@
 # Pruebas-de-software
 
-Proyecto 
+Proyecto Pruebas Manuales de APIs para la aplicación y servicio de entrega a domicilio de comestibles Urban Grocers| Bootcamp Tripleten (2025)
 
+•	Se verificó la funcionalidad de las APIs validando endpoints mediante Postman, y que cumpla con la lógica de negocio de acuerdo al documento de requerimientos.
+•	Logro o impacto:  Detección temprana de errores, reducción de costos, mejora de la calidad
+Habilidades tecnológicas utilizadas:  endpoint, logs, http, APIdoc, Jira, Postman
+
+https://github.com/user-attachments/assets/51eb3729-a9d2-4b61-ba88-233c2e8757dc
 
 Proyecto Pruebas funcionales para la aplicación de servicio de Taxis Urban Routes | Bootcamp Tripleten (2025)
 
