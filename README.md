@@ -17,7 +17,7 @@ https://github.com/user-attachments/assets/51eb3729-a9d2-4b61-ba88-233c2e8757dc
 Habilidades, técnicas utilizadas: Pruebas funcionales, UI Testing, informes de errores, documentación de casos de prueba, herramientas como JIRA y DevTools
 
 https://github.com/user-attachments/assets/5fc03c25-53e0-41ae-96c0-38cc9ee6faf2
-
+#
 **Urban Lunch v 1.0 | Bootcamp Pruebas de aplicaciones móviles Triple Ten 2025**
 
 Logros Destacados en la ejecucion de pruebas móviles: Identificación de los errores críticos en funcionalidades principales de Urban.Lunch v1.0 que habrían afectado la experiencia del usuario final, incluyendo problemas con cantidades en carrito, mapa y manejo del GPS.
@@ -28,8 +28,8 @@ Informe de pruebas UrbanLunch
 
 • Elaboración de informe final con recomendación fundamentada de no liberar la aplicación a producción debido al impacto de los defectos encontrados, protegiendo la reputación del producto y previniendo costos por errores en producción.
 
-
 https://github.com/user-attachments/assets/47d22c3f-b585-4f89-8ee5-b0dd9d831560
+#
 
 
 
