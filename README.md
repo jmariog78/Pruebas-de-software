@@ -16,6 +16,7 @@ https://github.com/user-attachments/assets/51eb3729-a9d2-4b61-ba88-233c2e8757dc
 •	Logro o impacto: Validación del flujo de usuario, detección de errores para garantizar una experiencia sin errores
 Habilidades, técnicas utilizadas: Pruebas funcionales, UI Testing, informes de errores, documentación de casos de prueba, herramientas como JIRA y DevTools
 
+**Urban Lunch v 1.0 | Bootcamp Pruebas de aplicaciones móviles Triple Ten 2025**
 
 **Logros Destacados en la ejecucion de pruebas móviles**
 
